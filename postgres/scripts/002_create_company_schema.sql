@@ -1,1 +1,1 @@
-create schema company;
+create schema ic_company;

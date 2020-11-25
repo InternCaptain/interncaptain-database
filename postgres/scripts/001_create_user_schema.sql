@@ -1,1 +1,1 @@
-create schema users;
+create schema ic_user;
