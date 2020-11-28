@@ -10,6 +10,6 @@ create table ic_user.users
     password   text
 );
 
-alter table users
+alter table ic_user.users
     owner to postgres;
 
