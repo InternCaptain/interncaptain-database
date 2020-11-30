@@ -7,9 +7,11 @@ Required tools:
 - [Visual Studio](https://visualstudio.microsoft.com/) / [JetBrains Rider](https://www.jetbrains.com/rider/)
 
 Install Dotnet either in VS or Rider
-```diff
-- Add dotnet to path
-```
+
+<div class="text-purple">
+  Add dotnet to path !!
+</div>
+
 Install Entity Framework cli:
 ```
 dotnet tool install --global dotnet-ef
