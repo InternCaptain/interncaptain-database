@@ -8,7 +8,7 @@ Required tools:
 
 Install Dotnet either in VS or Rider
 ```diff
-!! Add dotnet to path
+- Add dotnet to path
 ```
 Install Entity Framework cli:
 ```
