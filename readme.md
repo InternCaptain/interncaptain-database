@@ -1,4 +1,4 @@
-Tools that need to be installed:
+Required tools:
 
 - [Git](https://git-scm.com/downloads)
 - [Node + NPM](https://nodejs.org/en/)
