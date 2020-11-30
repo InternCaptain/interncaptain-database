@@ -18,4 +18,4 @@ Install Entity Framework cli:
 dotnet tool install --global dotnet-ef
 ```
 
-After that, install postgres
+After that, install [postgres](./postgres)
