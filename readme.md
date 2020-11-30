@@ -8,7 +8,7 @@ Required tools:
 
 Install Dotnet either in VS or Rider
 
-<div class="text-red">
+<div style="color: red">
   Add dotnet to path !!
 </div>
 
