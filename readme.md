@@ -6,11 +6,9 @@ Required tools:
   - either WSL 2 or with Hyper-V 
 - [Visual Studio](https://visualstudio.microsoft.com/) / [JetBrains Rider](https://www.jetbrains.com/rider/)
 
-Install Dotnet either in VS or Rider
+Install Dotnet either in VS or Rider or [here](https://dotnet.microsoft.com/download).
 
-<div style="color: red">
-  Add dotnet to path !!
-</div>
+__Add dotnet to path__
 
 Install Entity Framework cli:
 ```
