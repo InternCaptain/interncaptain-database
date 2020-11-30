@@ -7,7 +7,7 @@ Required tools:
 - [Visual Studio](https://visualstudio.microsoft.com/) / [JetBrains Rider](https://www.jetbrains.com/rider/)
 
 Install Dotnet either in VS or Rider
-
+!!Add dotnet to path
 
 Install Entity Framework cli:
 ```
