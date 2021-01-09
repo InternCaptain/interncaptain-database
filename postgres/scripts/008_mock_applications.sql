@@ -998,10 +998,3 @@ insert into applications (internship_id, student_id, status) values (279, 82, 1)
 insert into applications (internship_id, student_id, status) values (243, 78, 3);
 insert into applications (internship_id, student_id, status) values (870, 43, 3);
 insert into applications (internship_id, student_id, status) values (986, 120, 1);
-
-update internships
-set description = text('Do you want to lean how to ') ||
-                  description ||
-                  text('? Come to use, and we will teach you how! Our internship is paid with: ') ||
-                  text(id * 10) ||
-                  text(' euro/day');
