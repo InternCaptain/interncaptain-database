@@ -1,4 +1,4 @@
-insert into users (first_name, last_name, email, profile_picture, role) values ('Silviu', 'Cucuiet', 'silviu@mail.com', 'https://robohash.org/quamoccaecatiofficiis.png?size=100x100&set=set1', 1);
+insert into users (first_name, last_name, email, profile_picture, role) values ('Silviu', 'Cucuiet', 'silviu@mail.com', 'https://robohash.org/quamoccaecatiofficiis.png?size=100x100&set=set1', 2);
 insert into users (first_name, last_name, email, profile_picture, role) values ('Amalia', 'Bunea', 'amalia@mail.com', 'https://robohash.org/asperioresvoluptatibusrepellendus.bmp?size=100x100&set=set1', 1);
 insert into users (first_name, last_name, email, profile_picture, role) values ('Alexandra', 'Costras', 'ale@mail.com', 'https://robohash.org/suscipitnisiet.png?size=100x100&set=set1', 1);
 insert into users (first_name, last_name, email, profile_picture, role) values ('Florina', 'Carbune', 'florina@mail.com', 'https://robohash.org/quidemvoluptatescupiditate.jpg?size=100x100&set=set1', 1);
